@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbbc722b7dce4ac2b3f30ecb0997d322",
+    "_text_": "Updated git new branch ",
+    "_top_": {
+        "type": "string",
+        "value": "124dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sac64859a9d1445e95778c44382aee6b",
+    "id": "Button0d34d7615536b42",
+    "info": null,
+    "isvisible": true,
+    "kuid": "af786db15b5247459e6ee7706bd5ffa3",
+    "name": "kony.ui.Button",
+    "parent": "frmOne",
+    "pf": "frmOne",
+    "wType": "Button",
+    "zindex": 1
+}
