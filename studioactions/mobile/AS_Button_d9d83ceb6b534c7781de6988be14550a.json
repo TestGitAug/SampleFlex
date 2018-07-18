@@ -1,0 +1,24 @@
+{
+    "AS_Button_d9d83ceb6b534c7781de6988be14550a": {
+        "id": "AS_Button_d9d83ceb6b534c7781de6988be14550a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOne",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f4616f95c18c44a6a952be48fef84f98"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e1b7f33f23ca472d9221b29e174566b0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.LabelOne.text = \"Ten Line Text Ten Line Text Ten Line Text Ten Line Text Ten Line Text Ten Line Text Ten Line Text Ten Line Text Ten Line Text Ten Line thisTen Line Text Ten Line Text Ten Line Text Ten Line TextTen Line Text\"",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

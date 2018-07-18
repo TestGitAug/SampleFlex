@@ -1,0 +1,24 @@
+{
+    "AS_Button_hd98ec9514264e279ebf0e2fdc936aa0": {
+        "id": "AS_Button_hd98ec9514264e279ebf0e2fdc936aa0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOne",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f4616f95c18c44a6a952be48fef84f98"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__if33ceb830934edd93b723154f9338dd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.LabelOne.text = \"One Line Text\";\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Form_i03534f5a3d64882b88b48bf410f89c8": {
+        "id": "AS_Form_i03534f5a3d64882b88b48bf410f89c8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOne",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f4616f95c18c44a6a952be48fef84f98"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__hceb1151b32a4a79885a255468c40c34",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.LabelOne.doLayout = this.doLayoutForLabel;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

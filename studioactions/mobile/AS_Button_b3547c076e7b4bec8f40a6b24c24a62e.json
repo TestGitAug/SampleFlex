@@ -1,0 +1,30 @@
+{
+    "AS_Button_b3547c076e7b4bec8f40a6b24c24a62e": {
+        "id": "AS_Button_b3547c076e7b4bec8f40a6b24c24a62e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmOne",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f4616f95c18c44a6a952be48fef84f98"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fbf0c4db6e504bd585903021b137c0fd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.LabelOne.text = \"Five Line Text Five Line Text Five Line Text Five Line thisFive Line TextFive Line TextFive Line TextFive Line Text\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
